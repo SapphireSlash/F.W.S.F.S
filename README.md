@@ -1,5 +1,5 @@
 # F.W.S.F.S.S
-A repository for the Font Website Stolen Fonts and Suspicious System
+A repository for the Font Website Stolen Fonts and Suspicious System.
 
 Canva Project URL: https://canva.link/knyx8datj3cvjun
 
