@@ -2,6 +2,7 @@
 A repository for the Font Website Stolen Fonts and Suspicious System.
 
 Canva Project URL: https://canva.link/knyx8datj3cvjun
+Google Doc URL: https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing
 
 Note: If you want to contribute, you can do so freely on the issues page.
 Also, if you want to request a font website rating change, remember that I or other people might undo your change or change it to something else.
