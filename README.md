@@ -14,7 +14,6 @@ Also, if you want to request a font website rating change, remember that I or ot
 
 Note: Websites that allow users to upload fonts are moved up a rating in case if you where to upload a stolen font. Now, I know there might be moderation, but I put them in a higher rating just in case.
 
-
 ---
 
 Font Website Stolen Fonts and Suspicious System (F.W.S.F.S.S).
