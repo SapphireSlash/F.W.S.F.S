@@ -3,7 +3,7 @@ A repository for the Font Website Stolen Fonts System.
 
 The goal of this system making it easier which websites should you use.
 
-VERY IMPORTANT: I will only allow font websites that are 100% free because it gets confusing.
+VERY IMPORTANT: I will only allow font websites that are 100% free because it gets confusing when you add paid websites.
 
 ---
 
